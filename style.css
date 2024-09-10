@@ -1,0 +1,29 @@
+body {
+    color: darkred;
+    background: chocolate;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+header {
+    border-bottom: solid 5px black;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+section {
+    background: sandybrown;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamda-texto {
+    margin-right: 15px;
+}
+
+h1 {
+    font-size: 28px;
+}
